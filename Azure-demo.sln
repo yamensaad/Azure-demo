@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Azure-demo", "Azure-demo\Azure-demo.sqlproj", "{B251B84D-A589-4D54-902A-A980A6E0660C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B251B84D-A589-4D54-902A-A980A6E0660C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B251B84D-A589-4D54-902A-A980A6E0660C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B251B84D-A589-4D54-902A-A980A6E0660C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B251B84D-A589-4D54-902A-A980A6E0660C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B251B84D-A589-4D54-902A-A980A6E0660C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B251B84D-A589-4D54-902A-A980A6E0660C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65F9CDF6-9E67-4A86-9B15-ADEF5F1E0789}
+	EndGlobalSection
+EndGlobal
